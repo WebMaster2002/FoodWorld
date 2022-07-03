@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "foodordering-ca07d"
+  },
+  "targets": {
+    "foodordering-ca07d": {
+      "hosting": {
+        "app": [
+          "foodordering-ca07d"
+        ]
+      }
+    }
+  }
+}
