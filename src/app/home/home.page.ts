@@ -75,7 +75,9 @@ export class HomePage implements OnInit{
 
 
 
-
+addNote() {
+  this.router.navigate(['order']);
+}
 
 
 
